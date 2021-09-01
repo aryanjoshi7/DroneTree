@@ -1,1 +1,2 @@
 "# DroneTree" 
+Visit this [link](https://docs.google.com/presentation/d/1ZAubwmyWarU33zYq42n2C6wNyTUj4JejcqoXDK75evc/edit?usp=sharing) to learn about my project. This project uses the Gabor filter to show tree cover. The Gabor filter is s a combination of the gaussian filter and sinosudal filter and here it used to detect texture gradients, which separates trees from nearby objects and similar green pixels of grass.
